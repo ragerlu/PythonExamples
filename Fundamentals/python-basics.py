@@ -38,23 +38,21 @@ False
 
 #Logic operations for boolean evaluations:
 #Greater than:
->
+5 > 1
 #Less than:
-<
+3 < 6
 #Greater than or equal to:
->=
+1 >= 1
 #Less than or equal to:
-<=
+1 <= 2
 #Equal to:
-==
+1 == 1
 #Not equal to:
-!=
+2 != 3
 #And (Both):
-and 
-&&
+True and True  
 #Or (Both):
-or
-||
+True or True 
 
 #Examples of boolean operations are:
 True != False
